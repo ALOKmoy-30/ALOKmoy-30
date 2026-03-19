@@ -8,7 +8,7 @@ I'm a Second-Year Electronics & Communication Engineering (ECE) student and an a
 
 | Category | Skills & Focus Areas |
 | :--- | :--- |
-| **Backend Development** | Python (Developing), JavaScript, Node.js, Server-Side Logic |
+| **Backend Development** | Python (Developing), JavaScript, Node.js,Machine learning |
 | **Frontend Development** | HTML5, CSS3, JavaScript, Responsive UI/UX |
 | **Foundations** | Data Structures & Algorithms (DSA), Problem Solving |
 | **Principles** | Scalability, Clean Code, Effective Communication |
