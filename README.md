@@ -25,7 +25,7 @@ I'm a Third-Year **Electronics & Communication Engineering (ECE)** student and a
 | 🎭 [Emotion Detection System](https://github.com/ALOKmoy-30/EMOTION-DETECTION-PROJECT) | Real-time facial emotion recognition with a trained deep learning model | TensorFlow, Keras, OpenCV |
 | 🤖 [Jarvis Voice Assistant](https://github.com/ALOKmoy-30/jarvis) | Avengers-inspired voice assistant in Python | Python |
 | 🎬 [Netflix India Clone](https://github.com/ALOKmoy-30/02_netflix-clone) | Fully responsive landing page clone | HTML5, CSS3, Flexbox, Grid |
-| 💼 [Portfolio](https://github.com/ALOKmoy-30/PORTFOLIO) | Personal developer portfolio | HTML5, CSS3 |
+
 
 ---
 
